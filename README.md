@@ -1,4 +1,4 @@
 # hello-word
 MY first repository on GitHub
-i love coffee and dancer
+I love :coffee:,:pizza:,and:dancer:
 lzj的仓库
